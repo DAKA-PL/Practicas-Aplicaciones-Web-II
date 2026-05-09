@@ -39,7 +39,7 @@ func main() {
 /*
    	Daivelyn Pincay Lopez
    	1. ¿Tuviste que poner Cliente, Producto y Pedido en el mismo paquete? ¿Por qué sí o por qué no?
-   	Si se tuvo que poner,porque en caso contrario de no colocarlo se tendria que crear otro paquete
+   	Si se tuvo que poner,porque en caso contrario de colocar no colocarlo se tendria que crear otro paquete
 
    	2. ¿Qué problema aparecería si intentaras separar Producto en un paquete aparte cuando Pedido lotiene anidado?
        El problema seria que al momento de ejecutarlo daria error ya que no esta llamando a las funciones
